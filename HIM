@@ -1,0 +1,112 @@
+<html>
+   <link rel="stylesheet" href="styles.css">
+
+<body  background="C:\Users\Pupil 5\Desktop\i\Polish_20250803_203535366.jpg">
+
+   <title>HIM GOAT</title>
+
+   <header class="head">
+      <a class="menutext"> HIM </a>
+   </header>
+   <div class="VilleValo">
+     <a class="VilleValoN" href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BB%D0%BB%D0%B5_%D0%92%D0%B0%D0%BB%D0%BE"> Ville Valo </a> 
+   </div>
+
+   <div class="Mikko">
+     <a class="MikkoN" href=""> Mikko l. </a> 
+   </div>
+
+   <div class="Emerson">
+     <a class="EmersonN" href="https://en.wikipedia.org/wiki/Burton_(musician)"> Emerson B. </a> 
+   </div>
+
+ <style>
+   .head {
+      display: flex;
+      background-color: #f36df7;
+      height: 80;
+      width: 400;
+      justify-content: center;
+      margin-left: 803;
+      border: 5px solid pink;
+      border-radius: 15px;
+   }
+
+   .menutext {
+      font-size: 72;
+      color: white;
+      align-content: center;
+      display: flex;
+      text-decoration: none; 
+   }
+
+   .VilleValo {
+      display: flex;
+      background-color: #f36df7;
+      height: 595;
+      width: 400;
+      justify-content: center;
+      margin-left: 100;
+      margin-top: 100;
+      border: 5px solid pink;
+      border-radius: 15px;
+      background-image: url('https://tinakshop.com/cdn/shop/products/Villefullnew_9bb8e6fe-2562-4574-a0ae-a849077a1fa0_1024x1024.jpg?v=1637360570');
+      background-size: cover;
+   }
+
+   .VilleValoN {
+      font-size: 72;
+      color: white;
+      align-content: center;
+      display: flex;
+      text-decoration: none; 
+   }
+
+   .Mikko {
+      display: flex;
+      background-color: #f36df7;
+      height: 595;
+      width: 400;
+      justify-content: center;
+      margin-left: 800;
+      margin-top: -605;
+      border: 5px solid pink;
+      border-radius: 15px;
+      background-image: url('https://www.konzertfotos.app/storage/2019/03/HIM-Ville-Valo-Konzertfotos-Farewell-Koeln-2017-0627.jpg');
+      background-size: cover;
+   }
+
+   .MikkoN {
+      font-size: 72;
+      color: white;
+      align-content: center;
+      display: flex;
+      text-decoration: none; 
+   }
+
+   .Emerson {
+      display: flex;
+      background-color: #f36df7;
+      height: 595;
+      width: 400;
+      justify-content: center;
+      margin-left: 1460;
+      margin-top: -605;
+      border: 5px solid pink;
+      border-radius: 15px;
+      background-image: url('https://i.pinimg.com/474x/fe/ef/ca/feefca58b5a6824b09e26984c52b28e5.jpg');
+      background-size: cover;
+   }
+
+   .EmersonN {
+      font-size: 72;
+      color: white;
+      align-content: center;
+      display: flex;
+      text-decoration: none; 
+   }
+ </style>
+
+</body>
+
+</html>
